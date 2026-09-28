@@ -95,4 +95,4 @@ vdb-config --interactive
 fasterq-dump --split-files --maxReads 10000 SRR11454681
 ```
 ## 🔗 Downstream Modular Extensions
-This pipeline operates as a modular upstream data engineering workspace. To see how these structured genomic variants and multi-omics arrays are tokenized into 128-dimensional tensors to train deep learning models, explore the downstream [Dual-Tower PyTorch Geometric Repository](https://github.com).
+This pipeline operates as a modular upstream data engineering workspace. To see how these structured genomic variants and multi-omics arrays are tokenized into 128-dimensional tensors to train deep learning models, explore the downstream [Dual-Tower PyTorch Geometric Repository](https://github.com/kritingautam/Dual-Tower-PyTorch-Geometric).
